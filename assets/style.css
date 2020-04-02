@@ -16,6 +16,11 @@ and "Pure CSS Animated Gradient Background" by Manuel Pinto [2]
  --color-text-header: #fff;
 }
 
+p {
+  text-align: center;
+  color: white;
+} 
+
 body {
  margin: 0;
  padding: 0;
