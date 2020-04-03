@@ -33,6 +33,11 @@ h3,
  color: var(--color-text-strong);
 }
 
+h4 {
+  text-align: center;
+  color: white;
+} 
+
 strong {
  color: var(--color-text-strong);
 }
