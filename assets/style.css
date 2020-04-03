@@ -25,17 +25,12 @@ body {
 }
 
 h1,
-h2 {
+h2
+h3,
+{
  margin-top: 1em;
  padding-top: 1em;
  color: var(--color-text-strong);
-}
-
-h3 {
-  margin-top: 1em;
-  padding-top: 1em;
-  text-align: center;
-  color: white;
 }
 
 strong {
