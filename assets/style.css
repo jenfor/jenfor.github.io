@@ -47,6 +47,7 @@ a {
 }
 
 img {
+ transform: rotate(90deg);
  margin: 10;
  padding: 10;
 }
